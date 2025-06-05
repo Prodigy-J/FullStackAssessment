@@ -1,3 +1,5 @@
+# Please run `npm install` in the backend folder to install the dependencies.
+
 An API is a means by which two systems communicate. It allows the sharing of information between different systems.
 
 Front-end is the part of an application that users can see and interact with, while the backend is the part of the application that processes data in the background.
